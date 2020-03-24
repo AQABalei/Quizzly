@@ -1,0 +1,16 @@
+@import "~assets/scss/vars.scss";
+
+.profileModalContainer {
+  .profileModalBody {
+    text-align: center;
+    @include flexCenter;
+    flex-direction: column;
+    padding: 10px;
+
+    > input {
+      min-width: 320px;
+      max-width: 400px;
+      text-align: center;
+    }
+  }
+}

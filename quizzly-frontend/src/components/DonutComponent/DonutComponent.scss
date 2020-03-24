@@ -1,0 +1,19 @@
+@import "~assets/scss/vars.scss";
+
+.barContainer {
+}
+.chartContainer{
+  width:800px;
+  position:relative;
+}
+.questionsContainer{
+  width:800px;
+}
+.testBring{
+  position:absolute;
+  top: 50px;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   width: 100%;
+}

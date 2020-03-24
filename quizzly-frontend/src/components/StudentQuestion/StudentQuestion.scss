@@ -1,0 +1,9 @@
+@import "~assets/scss/vars.scss";
+
+.studentQuestionContainer {
+  position: relative;
+  padding: 10px;
+  @include borderBottom;
+  font-size: 13px;
+  white-space: normal;
+}

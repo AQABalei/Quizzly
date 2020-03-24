@@ -1,0 +1,19 @@
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\PowerPointAddIn1 Practice.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\PowerPointAddIn1 Practice.pdb
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\PowerPointAddIn1 Practice.dll.manifest
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\PowerPointAddIn1 Practice.vsto
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\Microsoft.Office.Tools.Common.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\Microsoft.Office.Tools.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\Newtonsoft.Json.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Release\Newtonsoft.Json.xml
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\PowerPointAddIn1_Practice.timer.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\PowerPointAddIn1_Practice.loginDialog.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\PowerPointAddIn1_Practice.Properties.Resources.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\PowerPointAddIn1_Practice.quizzlyRibbon.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\QuizzlyAddIn.csproj.GenerateResource.Cache
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\QuizzlyAddIn.csproj.CoreCompileInputs.cache
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\PowerPointAddIn1 Practice.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Release\PowerPointAddIn1 Practice.pdb

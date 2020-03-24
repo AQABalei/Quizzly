@@ -1,0 +1,23 @@
+@import "~assets/scss/vars.scss";
+
+.courseContainer {
+  .coursePanelHeader {
+    @include flexVertical;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .deleteButton {
+    margin-left: 300px;
+    
+  }
+}
+.courses-logo {
+  width: 32px;
+  margin-right: 22px;
+}
+
+.contentContainer {
+    background-color: #F6F7F8;
+}

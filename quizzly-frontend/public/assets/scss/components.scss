@@ -1,0 +1,161 @@
+@import "vars";
+
+.dropdown {
+  background-color: white;
+  height: 39px;
+  @include p;
+  border: 0;
+  font-family: Open Sans;
+  font-size: 17px;
+  width: 180px;
+}
+
+.mainDropdown {
+  @extend .dropdown;
+  position: absolute;
+  top: 9px;
+  width: 160px;
+}
+
+.semesterDropdown {
+  @extend .dropdown;
+  position: absolute;
+  top: 9px;
+  margin-left: 170px;
+  width: 160px;
+}
+
+button, .button {
+  @include greenBlueGradient;
+  @include outerShadow;
+  @include lato;
+  padding: 15px 20px;
+  color: white;
+  cursor: pointer;
+  border: $radius;
+  font-weight: 700;
+  border: none;
+
+  &:hover {
+    box-shadow: 0px 2px 4px 1px rgba(0,0,0,0.33);
+  }
+}
+
+.quizzlyContent {
+  overflow-x: auto;
+  white-space: nowrap;
+  height: calc(100vh - 98px);
+  margin-left: 192px;
+}
+
+.addEntityButton {
+  float: right;
+  margin-right: 30px;
+  text-align: center;
+  color: #2F3E47;
+  border: 1px solid #CCC;
+  border-radius: 3px;
+  line-height: 40x;
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #FFF;
+  font-family: Lato;
+  cursor: pointer;
+  font-size: 12.5px;
+  font-weight: 400;
+  padding: 10px;
+}
+
+.normalInput {
+  @include normalInput;
+  font-size: 18px;
+}
+
+.modalButton {
+  width: 100%;
+  @include greenBlueGradient;
+  color: $white;
+  @include lato;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: $radius;
+  @include outerShadow;
+  font-weight: 700;
+  border: none;
+}
+
+.greenButton {
+  text-align: center;
+  cursor: pointer;
+  border-radius: $radius;
+  border: $solidBorder;
+  background-color: $lightGreen;
+  padding: 10px;
+  flex-shrink: 0;
+  &:hover {
+    background-color: darken($lightGreen, 5%) !important;
+  }
+}
+.greyButton{
+  text-align: center;
+  cursor: pointer;
+  border-radius: $radius;
+  border: $solidBorder;
+  background-color: #F6F7F8;
+  padding: 10px;
+  flex-shrink: 0;
+  &:hover {
+    background-color: darken(#F6F7F8, 5%) !important;
+  }
+}
+
+.redButton{
+  text-align: center;
+  cursor: pointer;
+  border-radius: $radius;
+  border: $solidBorder;
+  background-color: $lightRed;
+  padding: 10px;
+  flex-shrink: 0;
+  &:hover {
+    background-color: darken($lightRed, 5%) !important;
+  }
+}
+
+.plusButton {
+  @extend .greenButton;
+  font-weight: 500;
+  width: 26px;
+}
+
+.footerButton {
+  text-align: center;
+  cursor: pointer;
+  margin-top: 5px;
+  @include roundBottom;
+  @include borderTop;
+  background-color: $lightGreen;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  font-weight: 500;
+  &:hover {
+    background-color: darken($lightGreen, 4%) !important;
+  }
+}
+
+.helpText {
+  @include small;
+  @include flexVertical;
+  text-align: center;
+  margin: 0px;
+  font-size: 10;
+  padding-left: 15px;
+  &:hover {
+    color: darken($gray, 10%) !important;
+    font-weight: 400;
+  }
+}

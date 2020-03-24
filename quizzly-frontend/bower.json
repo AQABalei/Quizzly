@@ -1,0 +1,23 @@
+{
+  "name": "redshepherd_pos",
+  "description": "RedShepherd POS System",
+  "main": "index.js",
+  "authors": [
+    "RedShepherd"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/RedShepherdLLC/payflow",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "assetsTheme": "https://freyconner24:connerred123!@github.com/RedShepherdLLC/assets-payflow-dark.git",
+    "assets": "https://freyconner24:connerred123!@github.com/RedShepherdLLC/assets.git",
+    "elements": "https://freyconner24:connerred123!@github.com/RedShepherdLLC/elements.git",
+    "modules": "https://freyconner24:connerred123!@github.com/RedShepherdLLC/modules.git"
+  }
+}

@@ -1,0 +1,2 @@
+ios.cert file should go in this folder
+ios.cert file should be in .gitignore for security purposes

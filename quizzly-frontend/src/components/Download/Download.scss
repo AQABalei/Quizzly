@@ -1,0 +1,39 @@
+@import "~assets/scss/vars.scss";
+
+.downloadContainer {
+  @include gradientBody;
+
+  .innerDownloadContainer {
+    @include gradientBody;
+  }
+
+  .title {
+    color: white !important;
+    text-align: center;
+    padding-top: 60px;
+  }
+
+  .downloadLinks {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  a {
+    padding: 20px;
+    color: white !important;
+    @include h1;
+    font-size: 22px;
+    border-radius: $radius;
+    background-color: rgba(0,0,0,0.1);
+    margin: 0 10px;
+    @include outerShadow;
+  }
+
+  .backButton {
+    cursor: pointer;
+    text-align: center;
+    display: block;
+    margin-top: 40px;
+  }
+}

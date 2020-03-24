@@ -1,0 +1,58 @@
+/*The Documentation servers as a quick wrap up of the project structure and function that have been written in the Quizzly Mobile App Section. Hope it helps with people to understand the mechanism of the project */
+
+
+1.File Structure
+2.Detailed File Explanation
+
+
+1.File Structure.
+
+Log In Page ----- Entrance.js
+Home Page   ----- Course.js
+View Score Page ---- Courses.js->QuizzList.js->QuestionList.js->Question.js->Answers.js
+Take Quiz ---- AnswerQuestion.js/AnswerQuiz.js
+
+
+2.Detailed File Explanation
+
+AnswerQuestion.js
+/*AnswerQuestion.js displays the question object received and prompt to the users for them to answer. This page is trigged when the professor asked a question in class and it can be either through the notification or student clicks on take quiz button.*/
+
+
+AnswerQuiz.js
+/*AnswerQuiz.js displays the quiz object received and prompt to the users for them to answer. It links to a QuestionList.js object and eventually utilize AnswerQuestion.js object for the user to send out response. This page is trigged when the professor asked a quiz in class and it can be either through the notification or student clicks on take quiz button*/
+
+Answers.js
+/*Answers.js takes in a question object and display its answer. It is triggered once the user click on the See the Answer button under the question page from View My Score Section*/
+
+Course.js
+/*Course.js is the home page once the user logs in. It has two button in display. One is Take Quiz and the other is View My Score*/
+
+CourseRow.js
+/*CourseRow.js serves as a wrapper for the Courses.js file.*/
+
+Courses.js
+/*Courses.js receives a bunch of courses name from datasource and display display them in table*/
+
+Entrance.js
+/*Entrance.js serves as the first page that user will see once open the app. It handles log in, sign up and authentification functionality */
+
+NavBar.js
+/*NavBar.js serves as a component file for the Navigartion Bar at the top of each page*/
+
+PushNotification.js
+/*PushNotification.js serves as a dedicated file for push notification functionality within the app. It's mainly being used under the condition that professor asks a question or quiz*/
+
+QuestionRow.js
+/*QuestionRow.js shares similar structure as CourseRow. It serves as a component wrapper for Questions.js file. The difference is CourseRow has a correct answer rate component while QuestionRow doesn't */
+
+Question.js
+/*Question.js takes in a question object and display the answer and question text in the page. It is triggered once user click on the question inside the QuestionList.js*/
+
+QuestionList.js
+/*QuestionList.js is triggered once the user clicks on the quiz object in QuizzList Page. It contains a list of questions that belong to that quiz */
+
+QuizzRow.js
+/*QuizzRow.js is similar to QuestionRow.js. It serves as a wrapper for Quizz Object displayed in the quiz list */
+
+

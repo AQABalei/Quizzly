@@ -1,0 +1,13 @@
+@import "~assets/scss/global";
+
+.styleContainer {
+  .colorSquare {
+    width: 150px;
+    height: 150px;
+    border-radius: $radius;
+    @include outerShadow;
+    @include flexCenter;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+}

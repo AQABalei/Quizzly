@@ -1,0 +1,77 @@
+@import "~assets/scss/vars.scss";
+
+body {
+  background-color: #FFF;
+}
+.metricsContainer {
+    min-height: 450px;
+    margin-top: 35px;
+    padding: 35px;
+    background-color: #FFF;
+}
+
+
+.metricsContent {
+  height: calc(100vh - 200px);
+  margin-left: 40px;
+}
+
+.amchart-box {
+  display: inline-block;
+  text-align: center;
+}
+
+.metrics-body {
+  width: calc(100vw - 280px);
+  color: #FFF;
+  display: flex;
+  flex-direction: column;
+}
+
+.metrics-content {
+  margin: 35px;
+  margin-top: 15px;
+  padding: 30px;
+  color: #000;
+  background-color: #FFF;
+  border: 1px solid #CCC;
+  border-radius: 4px;
+  min-height: calc(100vh - 600px);
+  display: inline-block;
+  text-align: center;
+}
+
+.center-am{
+  display: inline-block;
+}
+
+.metrics-menu {
+  margin: 35px;
+  margin-bottom: 0px;
+  padding: 30px;
+  color: #000;
+  background-color: #FFF;
+  border: 1px solid #CCC;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+}
+
+.select-style {
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 1px solid #CCC;
+}
+
+.download-button {
+    font-Weight: 700;
+    font-family: Lato;
+    color: #FFF;
+}
+
+.metrics-div {
+  width: 600px;
+}
+.wide-select {
+  width: 350px;
+}

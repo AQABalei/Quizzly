@@ -1,0 +1,93 @@
+@import "~assets/scss/vars.scss";
+
+.entranceContainer {
+  text-align: center;
+  @include gradientBody;
+  // position: fixed;
+
+  .innerEntranceContainer {
+    @include greenBlueGradient;
+    padding: 40px 0;
+    @include centerBlock;
+    text-align: center;
+  }
+
+  .title {
+    margin-top: 8vh;
+    @include mont;
+    font-weight: 700;
+    font-size: 42px;
+    color: $white;
+    letter-spacing: 1.77px;
+    line-height: 39px;
+  }
+
+  .subtitle {
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 20px;
+    color: $white;
+    line-height: 24px;
+  }
+
+  .logo {
+    width: 68px;
+    height: auto;
+  }
+
+  @include placeholder($white);
+
+  .signButton {
+    box-shadow: none;
+    font-weight: 700;
+    margin-top: 12px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: $white;
+    letter-spacing: 1.11px;
+    line-height: 24px;
+    background: none;
+    background-color: none;
+    cursor: pointer;
+    border-radius: 3px;
+    width: 100%;
+    max-width: 430px;
+    background-color: rgba(0,0,0,0.3);
+  }
+
+
+  .subsubtitle {
+    /* Or switch to sign up: */
+    @include roboto;
+    font-weight: 300;
+    color: $white;
+    line-height: 19px;
+  }
+
+  a {
+    @include roboto;
+    font-weight: 300;
+    line-height: 19px;
+    color: $white;
+    text-decoration: underline;
+    &:hover {
+      color: $white;
+      text-decoration: none;
+    }
+  }
+
+  .footer {
+    text-align: center;
+    padding-top: 40px;
+    display: block;
+  }
+  .forms {
+    @include centerBlock;
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 15px;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 3px;
+  }
+}

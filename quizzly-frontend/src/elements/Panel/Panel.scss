@@ -1,0 +1,182 @@
+@import "~assets/scss/vars.scss";
+
+.panelContainerQuiz {
+  width: 100%;
+  @include p;
+  //border-radius: $radius;
+  border: 0 none;
+  padding: 0;
+  margin: 0;
+  vertical-align: top;
+  // max-height: 100%;
+
+  .panelHeader {
+    background-color: $white;
+    font-family: Lato;
+    font-size: 20px;
+    color: #333333;
+    border: 1px solid #EEE;
+    white-space: normal;
+    padding: 0;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 2%;
+    padding-left: 2%;
+    display: inline-block;
+    width: 96%;
+    vertical-align: center;
+  }
+
+  .courseTitle {
+    display: inline-block;
+  }
+
+  .panelItem {
+    @include small;
+    padding: 20px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top: 1px solid #F8F8F8;
+    font-family: Lato;
+    font-size: 16px;
+    white-space: normal;
+    overflow: auto;
+    border-bottom: none;
+    color: #333333;
+    &:hover {
+      background-color: #F8F8F8;
+    }
+  }
+
+  .panelItemTitle {
+    @include small;
+    padding: 15px;
+    padding-left: 20px;
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 18px;
+    white-space: normal;
+    overflow: auto;
+    &:hover {
+      background-color: #F8F8F8;
+      border-radius: 4px;
+      font-weight: 700;
+    }
+  }
+
+  .panelFooterNew2 {
+    margin: 0;
+    padding: 0;
+    margin-top: -1px;
+    background-color: #F8F8F8;
+  }
+  .panelFooterNew {
+    border-top: 1px solid #F8F8F8;
+    margin-top: -1px;
+    background-color: #F8F8F8;
+    &:hover {
+    }
+  }
+
+  .panelFooterButton {
+    margin-left: 15px;
+    text-align: center;
+    color: $white;
+    border-radius: 3px;
+    width: 170px;
+    line-height: 40x;
+    margin-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #7289DA;
+    font-family: Lato;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px;
+  }
+  .courseOptions {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+  }
+
+  .rosterButton {
+    background-color: $white;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    display: inline-block;
+    font-family: Open Sans;
+    color: #4D4D4D;
+    font-weight: 700;
+    text-transform: uppercase;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .quizzesButton {
+    background-color: $white;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 16px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: inline-block;
+    font-family: Open Sans;
+    color: #4D4D4D;
+    font-weight: 700;
+    text-transform: uppercase;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .panelBody {
+    margin: 0;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    background-color: #F8F8F8;
+    border-top: 3px solid #f0f0f0;
+  }
+
+  .innerPanelBody {
+    margin: 15px;
+    margin-bottom: 0;
+    margin-top: 25px;
+    background-color: $white;
+    border: 1px solid #CCC;
+  }
+
+  .hlButton {
+    color: #43c0f0;
+    font-size: 16px;
+    text-align: center;
+    display: inline-block;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: pointer;
+    border: 4px solid #43c0f0;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    z-index: 0;
+    font-family: Open Sans;
+    color: #4D4D4D;
+    font-weight: 700;
+    text-transform: uppercase;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+}

@@ -1,0 +1,134 @@
+@import "~assets/scss/vars.scss";
+body {
+    color: #F6F7F8;
+}
+
+.body-box {
+    display: block;
+    width: 650px;
+    margin: 0 auto;
+    margin-top: 15vh;
+    font-family: Lato;
+    font-size: 13px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0,0,0,0.3);
+}
+.title {
+    @include mont;
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 15px;
+    color: #FFF;
+    letter-spacing: 1.77px;
+    line-height: 35px;
+}
+
+.email-box {
+    width: 420px;
+    margin: 0 auto;
+    margin-top: 15px;
+    font-family: Open Sans;
+    font-size: 16px;
+    padding: 13px;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    border-top: none;
+    background-color: #2b2c31;
+}
+
+.innerPanelProfessorConfirm {
+    margin: 15px;
+    margin-bottom: 0;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    background-color: $white;
+    border: 1px solid #f0f0f0;
+    color: #000000;
+    padding: 15px;
+}
+
+.confirmedItem {
+  padding: 15px;
+
+  background-color: $lightGreen;
+}
+
+.deniedItem {
+  padding: 15px;
+  background-color: $lightRed;
+}
+
+.professorContainer {
+  position: relative;
+  margin: 15px;
+  padding: 15px;
+
+  .successMessage {
+    @include flexCenter;
+    width: 99%;
+    height: 75%;
+    border-radius: 5px;
+    position: absolute;
+    @include greenBlueGradient;
+    color: $white;
+    @include mont;
+    z-index: 20;
+    font-weight: 700;
+    margin: -10px;
+  }
+
+  .professorSelect {
+    border-radius: $radius;
+    @include outerShadow;
+    background-color: $white;
+    @include small;
+    margin-left: 90%;
+    top: 0;
+    z-index: 10000;
+    position: absolute;
+  }
+
+  .professorHeader {
+    background-color: $lightGreen;
+    @include roundTop;
+    @include borderBottom;
+    padding: 10px;
+    font-weight: 700;
+    @include flexCenter;
+    font-style: italic;
+  }
+
+  .selectSectionRow {
+    cursor: pointer;
+    padding: 10px;
+  }
+
+  .selectSectionRow:last-of-type {
+    @include roundBottom;
+}
+
+  .confirmButton {
+    font-size: 16px;
+    background-color: $darkGreen;
+    cursor: pointer;
+    color: $white;
+    border-radius: 3px;
+    padding: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+  }
+
+  .denyButton {
+    font-size: 16px;
+    background-color: #dfdfdf;
+    cursor: pointer;
+    color: #333;
+    border-radius: 3px;
+    padding: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}

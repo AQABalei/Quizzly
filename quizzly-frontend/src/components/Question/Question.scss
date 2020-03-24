@@ -1,0 +1,73 @@
+@import "~assets/scss/vars.scss";
+
+.questionContainer {
+  position: relative;
+
+  .successMessage {
+    @include flexCenter;
+    width: 99%;
+    height: 75%;
+    border-radius: 5px;
+    position: absolute;
+    @include greenBlueGradient;
+    color: $white;
+    @include mont;
+    z-index: 20;
+    font-weight: 700;
+    margin: -10px;
+  }
+
+  .quizSelect {
+    border-radius: $radius;
+    @include outerShadow;
+    background-color: $white;
+    @include small;
+    margin-left: 90%;
+    top: 0;
+    z-index: 10000;
+    position: absolute;
+  }
+
+  .quizSelectHeader {
+    background-color: $lightGreen;
+    @include roundTop;
+    @include borderBottom;
+    padding: 10px;
+    font-weight: 700;
+    @include flexCenter;
+    font-style: italic;
+  }
+
+  .selectSectionRow {
+    cursor: pointer;
+    padding: 10px;
+  }
+
+  .selectSectionRow:last-of-type {
+    @include roundBottom;
+}
+
+  .askButton {
+    font-size: 16px;
+    background-color: $darkGreen;
+    cursor: pointer;
+    color: $white;
+    border-radius: 3px;
+    padding: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+  }
+
+  .deleteButton {
+    font-size: 16px;
+    background-color: #dfdfdf;
+    cursor: pointer;
+    color: #333;
+    border-radius: 3px;
+    padding: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+   
+}

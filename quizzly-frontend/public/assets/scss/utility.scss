@@ -1,0 +1,205 @@
+@import 'vars';
+
+a {
+  color: $gray;
+  @include p;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+    color: $gray;
+  }
+}
+
+.roboto { font-family: $roboto; }
+.mont { font-family: $mont; }
+
+.p0 { padding: 0px; }
+.p10 { padding: 10px; }
+.p20 { padding: 20px; }
+
+.pt0 { padding-top: 0px; }
+.pt10 { padding-top: 10px; }
+.pt15 { padding-top: 15px; }
+.pt20 { padding-top: 20px; }
+
+.pr0 { padding-right: 0px; }
+.pr10 { padding-right: 10px; }
+.pr20 { padding-right: 20px; }
+
+.pl0 { padding-left: 0px; }
+.pl10 { padding-left: 10px; }
+.pl20 { padding-left: 20px; }
+
+.pb0 { padding-bottom: 0px; }
+.pb10 { padding-bottom: 10px; }
+.pb15 { padding-bottom: 15px; }
+.pb20 { padding-bottom: 20px; }
+.pb40 { padding-bottom: 40px; }
+
+.m0 { padding: 0px; }
+.m10 { padding: 10px; }
+.m20 { padding: 20px; }
+
+.mt0 { margin-top: 0px; }
+.mt10 { margin-top: 10px; }
+.mt20 { margin-top: 20px; }
+.mt15 { margin-top: 15px; }
+
+.mr0 { margin-right: 0px; }
+.mr10 { margin-right: 10px; }
+.mr15 { margin-right: 15px; }
+.mr20 { margin-right: 20px; }
+
+.ml0 { margin-left: 0px; }
+.ml10 { margin-left: 10px; }
+.ml15 { margin-left: 15px; }
+.ml20 { margin-left: 20px; }
+.ml30 { margin-left: 30px; }
+
+.mb0 { margin-bottom: 0px; }
+.mb10 { margin-bottom: 10px; }
+.mb20 { margin-bottom: 20px; }
+.mb30 { margin-bottom: 30px; }
+
+.mlauto { margin-left: auto; }
+.mrauto { margin-right: auto; }
+
+.italic { font-style: italic; }
+
+.small-font {
+  font-size: 12.5px;
+}
+
+.outerShadow {
+  @include outerShadow;
+}
+
+.innerShadow {
+  @include innerShadow;
+}
+
+.bold {font-weight: 500 !important;}
+
+.lightGreen { color: $lightGreen !important; }
+.green { color: $green !important; }
+.lightRed { color: $lightRed !important; }
+.red { color: $red !important; }
+.darkGreen { color: $darkGreen !important; }
+.lightBlue { color: $lightBlue !important; }
+.white { color: $white !important; }
+.lightGray { color: $lightGray !important; }
+.gray { color: $gray !important; }
+
+.lightGreenBackground { background-color: $lightGreen !important; }
+.lightBlueBackground { background-color: $lightBlue; }
+.lightRedBackground { background-color: $lightRed !important;}
+.whiteBackground { background-color: $white; }
+.lightGrayBackground { background-color: $lightGray; }
+.lightestGrayBackground { background-color: $lightestGray; }
+.grayBackground { background-color: $gray; }
+
+.greenBlueGradient { @include greenBlueGradient; }
+.greenBlueGradientLight { @include greenBlueGradientLight; }
+
+.alignC { text-align: center; }
+.alignL { text-align: left; }
+.alignR { text-align: right; }
+.centerBlock { display: block; margin-left: auto; margin-right: auto; }
+
+.z5 { z-index: 5;}
+.z10 { z-index: 10;}
+.z15 { z-index: 15;}
+.z20 { z-index: 20;}
+
+.effect_blur {
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+.circle { border-radius: 50%; }
+
+.round { border-radius: $radius; }
+.roundTop { @include roundTop; }
+.roundBottom { @include roundBottom; }
+
+.border {
+  border: $solidBorder;
+}
+
+.borderBottom {
+  border-bottom: $solidBorder;
+}
+
+.borderTop {
+  border-top: $solidBorder;
+}
+
+.borderRight {
+  border-right: $solidBorder;
+}
+
+.borderLeft {
+  border-left: $solidBorder;
+}
+
+.pointer { cursor: pointer; }
+
+.flex { display: flex; }
+.flexHorizontal { @include flexHorizontal; }
+.flexVertical { @include flexVertical; }
+.flexCenter { @include flexCenter; }
+
+.flexStart {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.flexEnd {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nowrap { white-space: nowrap; }
+
+.floatL { float: left; }
+.floatR { float: right; }
+
+.absolute { position: absolute; }
+.relative { position: relative; }
+
+.absoluteCenter { @include absoluteCenter; }
+.absoluteXCenter { @include absoluteXCenter; }
+.absoluteYCenter { @include absoluteYCenter; }
+
+.hide { display: none; }
+.show { display: block; }
+
+.width100 { width: 100%; }
+.height100 { height: 100%; }
+
+.opacity40 { opacity: 0.4; }
+.opacity50 { opacity: 0.5; }
+
+.correct {
+  background-color: $lightGreen;
+  &:hover {
+    background-color: darken($lightGreen, 4%) !important;
+  }
+}
+
+.wrong {
+  background-color: $lightRed;
+  &:hover {
+    background-color: darken($lightRed, 1%) !important;
+  }
+}
+
+.open {
+  background-color: $lightGray;
+  &:hover {
+    background-color: darken($lightGray, 1%) !important;
+  }
+}

@@ -1,0 +1,10 @@
+@import "~assets/scss/vars.scss";
+
+.editCourseModalContainer {
+  .inputContainer {
+    @include flexVertical;
+    &:not(:last-child) {
+      margin-bottom: 20px;
+    }
+  }
+}

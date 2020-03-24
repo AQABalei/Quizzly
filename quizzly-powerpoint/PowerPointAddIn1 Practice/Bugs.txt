@@ -1,0 +1,6 @@
+BUGS:
+
+1. Moving backwards after asking quiz causes PPT to crash
+2. Switching quizzes causes PPT to crash
+3. Able to log in despite being logged in
+4. quizzes with same name causes 'key already added in dictionary' error

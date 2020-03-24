@@ -1,0 +1,25 @@
+@import "vars";
+
+h1, .h1 {
+  @include h1;
+}
+
+h3, .h3 {
+  @include h3;
+}
+
+h6, .h6 {
+  @include h3;
+}
+
+p, .p {
+  @include p;
+}
+
+small, .small {
+  @include small;
+}
+
+.metricsText {
+  @include metricsText;
+}

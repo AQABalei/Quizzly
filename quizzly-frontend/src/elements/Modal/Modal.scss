@@ -1,0 +1,52 @@
+@import "~assets/scss/vars.scss";
+
+.modalContainer {
+  position: absolute;
+  background-color: rgba(0,0,0,0.4);
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  overflow: scroll;
+
+  .modal {
+    max-width: 700px;
+    border-radius: $radius;
+    background-color: $white;
+    @include outerShadow;
+    @include p;
+    @include centerBlock;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    margin-top:40px;
+    margin-bottom:40px;
+  }
+
+  .modalHeader {
+    @include roundTop;
+    background-color: $lightBlue;
+    @include h6;
+    padding: 10px;
+    font-size: 20px;
+    @include borderBottom;
+    @include flexVertical;
+  }
+
+  .closeButton {
+    margin-left: auto;
+    cursor: pointer;
+  }
+
+  .modalBody {
+
+  }
+
+  .modalFooter {
+    margin-top: -1px;
+    @include roundBottom;
+    @include borderTop;
+    background-color: $lightGreen;
+    padding: 10px;
+    text-align: center;
+  }
+}

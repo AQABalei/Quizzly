@@ -1,0 +1,12 @@
+@import "~assets/scss/vars.scss";
+
+.headerContainer {
+  @include flexVertical;
+  height: 57px;
+  background-color: $white;
+  border-bottom: 1px solid #CCC;
+}
+
+.small-font {
+  font-size: 12.5px;
+}

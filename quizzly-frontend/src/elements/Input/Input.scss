@@ -1,0 +1,35 @@
+@import "~assets/scss/vars.scss";
+
+.normalInput {
+  @include normalInput;
+}
+
+.addCourseInput {
+  // @extend .baseInput;
+  // width: 100%;
+}
+
+.entranceInput {
+  @include centerBlock;
+  text-align: left;
+  max-width: 430px;
+  background: none;
+  background-color: none;
+  padding-left: 15px;
+  border-bottom: 1px #FFF;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  width: 100%;
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 18px;
+  color: $white;
+  line-height: 50px;
+  border-radius: 2px;
+  boder-radius-bottom:0px;
+  @include placeholder($white);
+}

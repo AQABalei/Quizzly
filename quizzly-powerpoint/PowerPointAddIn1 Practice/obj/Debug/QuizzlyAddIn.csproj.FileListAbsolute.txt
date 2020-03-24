@@ -1,0 +1,77 @@
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll.manifest
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.vsto
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.timer.resources
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.loginDialog.resources
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.Properties.Resources.resources
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.quizzlyRibbon.resources
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csproj.GenerateResource.Cache
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll.manifest
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.vsto
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.timer.resources
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.loginDialog.resources
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.Properties.Resources.resources
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.quizzlyRibbon.resources
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csproj.GenerateResource.Cache
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csproj.CoreCompileInputs.cache
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\Alex Man\Documents\Quizzly\PowerPointPlugin\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.timer.resources
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.loginDialog.resources
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.Properties.Resources.resources
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.quizzlyRibbon.resources
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csproj.GenerateResource.Cache
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csproj.CoreCompileInputs.cache
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll.manifest
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.vsto
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\Alex Man\Documents\Quizzly401\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll.manifest
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.vsto
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.timer.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.loginDialog.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.Properties.Resources.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.quizzlyRibbon.resources
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csproj.GenerateResource.Cache
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\QuizzlyAddIn.csproj.CoreCompileInputs.cache
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.dll
+C:\Users\metzm\Documents\csci401\quizzly\Quizzly\quizzly-powerpoint\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.pdb

@@ -1,0 +1,11 @@
+@import "~assets/scss/vars.scss";
+
+.editSectionModalContainer {
+
+  .inputContainer {
+    @include flexVertical;
+    &:not(:last-child) {
+      margin-bottom: 20px;
+    }
+  }
+}

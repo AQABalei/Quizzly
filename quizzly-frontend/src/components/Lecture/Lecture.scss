@@ -1,0 +1,105 @@
+@import "~assets/scss/vars.scss";
+
+.lectureContainer {
+  .backButton {
+    margin-bottom: 10px;
+    cursor: pointer;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .quizzesQuestionsContainer {
+
+  }
+
+  .quizzesQuestionsHeader {
+
+  }
+
+  .innerShadowPanelScrollBody {
+    padding: 10px;
+    box-sizing: border-box;
+    border: $solidBorder;
+    border-radius: $radius;
+    @include innerShadow;
+    background-color: $lightestGray;
+    overflow: scroll;
+  }
+
+  .quizzesQuestionsBody {
+    @extend .innerShadowPanelScrollBody;
+    height: calc(100vh - 241px);
+  }
+
+  .lectureBody {
+    @extend .innerShadowPanelScrollBody;
+    height: calc(100vh - 241px);
+  }
+
+  .quiz {
+
+  }
+
+  .lecturePanel {
+    @include outerShadow;
+    width: 100%;
+    background-color: $white;
+    @include p;
+    margin-right: 20px;
+    border-radius: $radius;
+    margin-bottom: 10px;
+  }
+
+  .lectureAddButton {
+    font-style: normal;
+    cursor: pointer;
+    padding: 2px;
+    font-weight: 300;
+    &:hover {
+      font-weight: 400;
+    }
+  }
+
+  .lecturePanelHeader {
+    @include roundTop;
+    background-color: $lightBlue;
+    @include h6;
+    padding: 10px;
+    @include borderBottom;
+    white-space: normal;
+    @include flexVertical;
+  }
+
+  .lecturePanelItem {
+    @include small;
+    @include borderBottom;
+    padding: 10px;
+    font-size: 13px;
+    white-space: normal;
+    overflow: auto;
+    @include flexVertical;
+    &:hover {
+      background-color: $lightestGray;
+    }
+  }
+
+  .lectureQuestion {
+    @extend .lecturePanelItem;
+    @include outerShadow;
+    background-color: white;
+    border-radius: $radius;
+    margin-bottom: 10px;
+    border-bottom: none;
+
+  }
+
+  .lectureQuiz {
+
+  }
+
+  .buttonGroup {
+    @include flexVertical;
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,85 @@
+@import "~assets/scss/vars.scss";
+
+.sidebarContainer {
+  background-color: #2F3E4E;
+  float: left;
+  text-align: center;
+  width: 260px;
+  height: 100vh;
+  // @include outerShadow;
+  z-index: 0;
+  // position: relative;
+
+  .quizzlyLogo {
+    @include flexCenter;
+    text-align: center;
+    color: $white;
+    font-size: 22px;
+    padding-top: 12px;
+    height: 57px;
+    padding-right: 10px;
+    display: inline-block;
+  }
+
+  .sideBarTop {
+    background-color: #2F3E4E;
+    border: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 57px;
+    display: inline-block;
+    margin-bottom: 30px;
+  }
+
+  .sidebarTitle {
+    @include p;
+    padding-left: 15px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: $white;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: Lato;
+    text-align: left;
+    display: block;
+    text-transform: uppercase;
+    cursor: pointer;
+
+    &:hover {
+    }
+  }
+  .sidebarElement {
+    @include p;
+    padding-left: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: #F0F0F0;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 500;
+    text-align: left;
+    display: block;
+    cursor: pointer;
+    &:hover {
+    }
+  }
+  .darkSelectedMenu {
+    @include greenBlueGradient;
+    color: #2F3E4E;
+  }
+  .logo {
+    display: inline-block;
+    margin-right: 10px;
+    padding-top: 15px;
+    height: 22px;
+    width: auto;
+  }
+  .smallIcon {
+    vertical-align: center;
+    position: relative;
+    top: 2px;
+    height: 15px;
+    margin-right: 20px;
+  }
+}

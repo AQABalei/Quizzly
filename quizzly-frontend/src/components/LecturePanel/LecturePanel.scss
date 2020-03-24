@@ -1,0 +1,27 @@
+@import "~assets/scss/vars.scss";
+
+.lecturePanelContainer {
+}
+
+.lecturePanelItem {
+  // border-bottom: $solidBorder;
+  // padding: 10px;
+}
+
+.innerQuestionItem {
+  padding-left: 10px;
+  border-top: $solidBorder;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+  &:not(:last-child) {
+    padding-bottom: 10px;
+
+  }
+}
+
+.lectureQuizItem {
+  // font-size: 16px;
+  padding-bottom: 10px;
+  font-weight: 500;
+}
