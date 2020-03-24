@@ -23,7 +23,7 @@
     "marked": "^0.3.5",
     "node-sass": "^3.7.0",
     "normalize-scss": "^4.0.3",
-    "npm": "^3.10.3",
+    "npm": "^6.13.4",
     "pusher": "^1.2.1",
     "react": "^15.4.2",
     "react-csv": "^1.0.14",
