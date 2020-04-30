@@ -19,7 +19,7 @@
     "html-webpack-plugin": "^2.16.1",
     "if-env": "^1.0.0",
     "install": "^0.8.1",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "marked": "^0.3.5",
     "node-sass": "^3.7.0",
     "normalize-scss": "^4.0.3",
