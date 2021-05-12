@@ -14,7 +14,7 @@
     "babel-preset-react": "^6.5.0",
     "babelify": "^7.2",
     "bluebird": "^3.3.3",
-    "chart.js": "^1.0.2",
+    "chart.js": "^2.9.4",
     "csv": "^0.4.6",
     "db-migrate": "^0.10.0-beta.20",
     "db-migrate-mysql": "^1.1.10",
