@@ -33,7 +33,7 @@
     "grunt-sails-linker": "~0.10.1",
     "grunt-sync": "0.2.4",
     "include-all": "~0.1.6",
-    "jsonwebtoken": "^7.4.3",
+    "jsonwebtoken": "^9.0.0",
     "node-cache": "^4.0.0",
     "node-fetch": "^2.1.2",
     "nodemailer": "^2.5.0",
